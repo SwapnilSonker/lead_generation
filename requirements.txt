@@ -1,0 +1,18 @@
+langchain
+langchain-google-genai
+google-generativeai 
+google-genai
+beautifulsoup4
+requests
+python-dotenv
+# Google Gemini AI SDK
+google-generativeai
+
+# For structured command-line usage
+argparse
+
+# Optional: For logging/debugging
+loguru
+
+# Optional: CSV export
+pandas
